@@ -1,2 +1,2 @@
 # wp_auto-express
-Training project on tension typesetting on wordpress
+Training project theme on tension typesetting on wordpress
